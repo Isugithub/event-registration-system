@@ -1,0 +1,18 @@
+◇ injected env (6) from .env // tip: ⌘ enable debugging { debug: true }
+MongoDB connected
+Database: event
+Server running on 5000
+Incoming Data: {
+  date: '2026-12-31T10:00:00.000Z',
+  title: 'DB Info Test Event',
+  description: 'Created by execution query',
+  location: 'Online'
+}
+Saved: {
+  title: 'DB Info Test Event',
+  description: 'Created by execution query',
+  date: 2026-12-31T10:00:00.000Z,
+  location: 'Online',
+  _id: new ObjectId('69edaab7a73812e00ce7b84d'),
+  __v: 0
+}

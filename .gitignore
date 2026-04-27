@@ -1,0 +1,4 @@
+node_modules/
+event-frontend/node_modules/
+.env
+event-frontend/.env
